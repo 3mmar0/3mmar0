@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3mmar0
-- 👀 I’m interested in coding  and bike riding
+- 👀 I’m interested in coding and learning new technologies every day
 - 🌱 I’m currently learning fullstack react, nextjs and laravel
 
 <!---
